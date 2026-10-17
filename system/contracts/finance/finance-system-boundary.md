@@ -14,7 +14,7 @@ contract_version: 1.4.0
 
 ## Contract
 
-`finance/` besitzt den für Max Mustermann und seine Agenten dauerhaft relevanten Finanzkontext und offene operative Finance-Wahrheit. Das jeweilige Buchhaltungs-, Banking-, Billing- oder externe Fachsystem bleibt Owner seiner Transaktionen und rechtlichen Buchungswahrheit; PersonalOS hält keine unmarkierte Parallelbuchhaltung.
+`finance/` besitzt den für Max Mustermann und die eigenen Agenten dauerhaft relevanten Finanzkontext und offene operative Finance-Wahrheit. Das jeweilige Buchhaltungs-, Banking-, Billing- oder externe Fachsystem bleibt Owner seiner Transaktionen und rechtlichen Buchungswahrheit; PersonalOS hält keine unmarkierte Parallelbuchhaltung.
 
 ## Scope
 

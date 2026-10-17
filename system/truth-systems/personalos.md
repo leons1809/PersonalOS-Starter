@@ -13,7 +13,7 @@ default_timezone: Europe/Berlin
 
 ## Current Truth
 
-PersonalOS ist Max Mustermanns dauerhaftes persönliches Kontext-, Wahrheits- und Second-Brain-System. Es hält den gesamten für Max Mustermann und seine Agenten relevanten Kontext auf Wahrheitsebene, auch wenn Repositories, Binärassets, Secrets oder gemeinsam kanonische Wahrheiten physisch in anderen Systemen liegen.
+PersonalOS ist Max Mustermanns dauerhaftes persönliches Kontext-, Wahrheits- und Second-Brain-System. Es hält den gesamten für Max Mustermann und die eigenen Agenten relevanten Kontext auf Wahrheitsebene, auch wenn Repositories, Binärassets, Secrets oder gemeinsam kanonische Wahrheiten physisch in anderen Systemen liegen.
 
 Der aktuelle Instanz-Default für lokale Zeitsemantik ist `Europe/Berlin`. Er ist ein veränderbarer Fallback, keine historische oder zukünftige Universalzeitzone; [[system/rules/core/timezone-and-local-day-boundary]] besitzt die Auflösungsreihenfolge.
 

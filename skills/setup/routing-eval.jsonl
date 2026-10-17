@@ -1,0 +1,4 @@
+{"intent":"Richte mein PersonalOS ein.","expected_skill":"setup"}
+{"intent":"Ich habe das PersonalOS gerade bekommen, wie fange ich an?","expected_skill":"setup"}
+{"intent":"Hilf mir, das System auf mich anzupassen und meine USER-Datei auszufüllen.","expected_skill":"setup"}
+{"intent":"Lass uns das Onboarding machen.","expected_skill":"setup"}

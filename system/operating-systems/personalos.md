@@ -15,7 +15,7 @@ operating_system_kind: personal-os
 
 ## Current Truth
 
-PersonalOS ist Max Mustermanns dauerhaftes privates Kontext-, Wahrheits- und Second-Brain-System. Es hält die für Max Mustermann und seine Agenten relevante Wahrheit auf Markdown-Ebene und kennt externe Owner, Repositories, Assets und Secrets über klare Grenzen und Pointer.
+PersonalOS ist Max Mustermanns dauerhaftes privates Kontext-, Wahrheits- und Second-Brain-System. Es hält die für Max Mustermann und die eigenen Agenten relevante Wahrheit auf Markdown-Ebene und kennt externe Owner, Repositories, Assets und Secrets über klare Grenzen und Pointer.
 
 ## Purpose
 

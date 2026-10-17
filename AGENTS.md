@@ -4,7 +4,7 @@ id: "01a0aca7-b213-7755-9b49-a856fd2411b2"
 type: agent-entry-pointer
 title: "PersonalOS Agent Entry"
 created: "2026-09-17"
-updated: 2026-10-08
+updated: 2026-10-18
 entry_kind: common-bootstrap
 ---
 
@@ -22,6 +22,8 @@ Lies vor der Arbeit:
 4. [[system/index]] – Regeln, Verträge, Datenmodell und Prüfungen
 5. [[skills/RESOLVER]] – verfügbare ausführbare Fähigkeiten
 6. [[system/rules/core/minimal-record-content]] – was in einen Record gehört und was nicht
+
+Steht in [[USER]] noch „Noch nicht ausgefüllt“, ist dieses PersonalOS noch nicht eingerichtet. Biete dann zuerst die geführte Einrichtung mit [[skills/setup/SKILL|setup]] an.
 
 ## Arbeiten im PersonalOS
 

@@ -4,7 +4,7 @@ id: "01a0aca7-b215-7478-8948-d7880c40716f"
 type: skill-resolver
 title: "Skill Resolver"
 created: "2026-09-17"
-updated: "2026-09-17"
+updated: "2026-10-18"
 ---
 
 # Skill Resolver
@@ -24,6 +24,7 @@ Dieser Record ordnet einen klaren Intent der passenden ausführbaren Fähigkeit 
 | Wiederkehrenden Ablauf auf Skill-Eignung prüfen | [[skills/skillify/SKILL|skillify]] |
 | Einen neuen PersonalOS-Skill anlegen oder ändern | [[skills/write-skill/SKILL|write-skill]] |
 | Lokalen Call oder Meeting-Beleg analysieren und in Kontext überführen | [[skills/analyse-call/SKILL|analyse-call]] |
+| Neues PersonalOS einrichten und persönlich ausfüllen | [[skills/setup/SKILL|setup]] |
 
 ## Routing Rules
 

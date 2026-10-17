@@ -22,7 +22,7 @@ Der Vertrag gilt für Personen außer dem menschlichen System-Subject sowie für
 
 ## Invariants
 
-1. Max Mustermann besitzt keinen parallelen vollständigen `person`-Record; sein Owner ist `identity/me.md`.
+1. Max Mustermann besitzt keinen parallelen vollständigen `person`-Record; der Owner dieser Person ist `identity/me.md`.
 2. Ein People- oder Company-Record darf keine freien Companion Directories oder fachfremden Unterlagen ansammeln.
 3. Person- und Company-Records behaupten nur die PersonalOS-eigene Beziehungssicht beziehungsweise belegte Entity-Fakten; fremde vollständige Wahrheit bleibt extern.
 4. Tasks, Messages, Calls, Deals, Projects, Offers, Strategies und Finance-Wahrheit werden verlinkt, nicht kopiert.

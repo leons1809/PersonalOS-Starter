@@ -1,13 +1,40 @@
 {
   "schema_version": 1,
-  "generated": true,
+  "generated_by": "personalos",
+  "generated_at": "2026-10-18",
+  "selection": "metadata.pos_lifecycle == active",
   "skills": [
-    "analyse-call",
-    "log",
-    "pos-verify",
-    "priority-dashboard",
-    "skillify",
-    "task-manager",
-    "write-skill"
+    {
+      "name": "analyse-call",
+      "path": "analyse-call/SKILL.md"
+    },
+    {
+      "name": "log",
+      "path": "log/SKILL.md"
+    },
+    {
+      "name": "pos-verify",
+      "path": "pos-verify/SKILL.md"
+    },
+    {
+      "name": "priority-dashboard",
+      "path": "priority-dashboard/SKILL.md"
+    },
+    {
+      "name": "setup",
+      "path": "setup/SKILL.md"
+    },
+    {
+      "name": "skillify",
+      "path": "skillify/SKILL.md"
+    },
+    {
+      "name": "task-manager",
+      "path": "task-manager/SKILL.md"
+    },
+    {
+      "name": "write-skill",
+      "path": "write-skill/SKILL.md"
+    }
   ]
 }

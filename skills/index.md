@@ -27,6 +27,7 @@ Skills besitzen ihre konkrete Ausführung. Systemweite Normen und persistierte R
 - [[skills/skillify/SKILL|skillify]] – wiederkehrende Abläufe als Skill bewerten
 - [[skills/write-skill/SKILL|write-skill]] – neue Skills kontrolliert anlegen
 - [[skills/analyse-call/SKILL|analyse-call]] – lokale Call-Belege nachvollziehbar in Kontext überführen
+- [[skills/setup/SKILL|setup]] – ein neues PersonalOS geführt einrichten
 
 Optionale Fähigkeiten werden als Module installiert und anschließend in [[skills/RESOLVER]] geroutet. Verbindungen zu externen Quellen bleiben unabhängig von der lokalen Analysefähigkeit optional.
 
