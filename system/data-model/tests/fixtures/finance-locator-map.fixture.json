@@ -1,0 +1,6 @@
+{
+  "finance/konten/beispiel-girokonto.md": {
+    "secure_locator": "op://PersonalOS/Beispiel Girokonto",
+    "transfer_confirmed": true
+  }
+}
