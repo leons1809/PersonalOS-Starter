@@ -94,7 +94,7 @@ Do not infer completion from age, silence, a passed date or apparent unimportanc
 - User-facing task lists, Morning Briefings and reviews query the atomic records and calculate urgency from current lifecycle, dates, dependencies, evidence and Max Mustermann's context.
 - Exclude completed/cancelled records and not-yet-reached deferred work from normal open-action views.
 - Surface due Waiting follow-ups and due Attention Triggers as reassessment needs, not automatically as new Actions.
-- Open Actions without `due`, `target` or `not_before` are not shown in the daily briefing. They surface in the Sunday weekly review with the question when Max wants to start, flagged for keep, schedule or cancel after 14 days unchanged, and at most one per free evening in the evening check-in. Do not invent dates to make them visible. When creating an Action, ask once for a target date.
+- Open Actions without `due`, `target` or `not_before` are not shown in daily views. They surface in a regular review with the question when Max wants to start, flagged for keep, schedule or cancel after 14 days unchanged. Do not invent dates to make them visible. When creating an Action, ask once for a target date.
 - Keep views concise. The source records may contain full evidence, but the agent presents only the relevant next decision or move.
 - Hygiene runs merge duplicates, surface overdue or stale records, reconcile changed source reality and report ambiguous cases. They never delete uncertain context silently.
 

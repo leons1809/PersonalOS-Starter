@@ -48,4 +48,4 @@ Beim Prüfen eines Writes: Lässt sich ein Satz streichen, ohne dass die Aussage
 
 ## Change History
 
-- **2026-09-22** | Regel aus der Praxis formuliert, nachdem ein Projektrecord versehentlich eine Wochenplanung aus dem Kalender aufgenommen hatte. Dateiname und Titel nach der Konvention englisch, Inhalt deutsch.
+- **2026-09-22** | Regel formuliert. Dateiname und Titel nach der Konvention englisch, Inhalt deutsch.
